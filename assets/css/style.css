@@ -1,0 +1,16 @@
+.default-margin{
+
+    margin-top:100px;
+}
+.product-slider, .contact{
+
+    background-color: #FCEAE8;
+}
+.feature-items img{
+
+    width:100px;
+}
+#bag{
+
+    background-color: #DA70D6;
+}
